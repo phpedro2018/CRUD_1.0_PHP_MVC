@@ -1,0 +1,44 @@
+body{
+	font-family: sans-serif;
+}
+
+.botao1{
+	border-radius: 0;
+}
+
+.efeito{
+    border:none;
+    width: 15%;
+    color: white; 
+    padding: 10px; 
+    margin: 5px;
+    font-size: 15px; 
+    line-height: 25px; 
+    position: relative;  
+    border-radius: 0;
+    box-sizing: border-box; 
+    cursor: pointer;
+    transition: all 400ms ease;
+    margin-top: 3em;
+    margin-bottom: 3rem;
+}
+
+
+
+.efeito-5{
+    background: #1B9CFC; 
+}
+
+
+.fundodiv1{
+    background-color: #f1f1f1;
+    padding: 2em;
+}
+
+.caixalogin{
+	width: 400px;
+	display: flex; 
+	flex-direction: column; 
+	justify-content: center;
+	margin: 0 auto;
+}
